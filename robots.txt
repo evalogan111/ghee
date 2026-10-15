@@ -4,4 +4,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ghee.vercel.app/sitemap.xml
+Sitemap: https://pure-ghee.vercel.app/sitemap.xml
