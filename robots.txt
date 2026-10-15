@@ -1,0 +1,7 @@
+# Golden Farm Australia Pty Ltd, ABN 85 609 222 639
+# https://goldenfarm.com.au/
+
+User-agent: *
+Allow: /
+
+Sitemap: https://ghee.vercel.app/sitemap.xml
